@@ -2,7 +2,7 @@
 int result = 93;
 if (result < 0 && result > 100)
 {
-
+    Console.WriteLine(" the result is incorrect")
 }
 else if (result > 90 && result <= 100)
 {
